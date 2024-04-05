@@ -10,7 +10,7 @@ O projeto é estruturado da seguinte forma:
 
 index.html: O arquivo principal que contém o conteúdo do currículo.
 Como Visualizar
-Você pode visualizar meu CV online acessando o seguinte link: (https://jacintomuambumba.github.io/cv/)
+Você pode visualizar meu CV online acessando o seguinte link: (https://jacintomuambumba.github.io/Meu-CV-Online/)
 
 Como Contribuir
 Se você identificar algum problema ou tiver sugestões de melhoria para o meu currículo online, sinta-se à vontade para abrir uma issue ou enviar um pull request neste repositório.
